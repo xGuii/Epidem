@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Title -->
+    <string name="app_name">Epidem!</string>
+    <string name="title_activity_map">Epidem!</string>
+    <string name="title_activity_coordinates">Epidem!</string>
+    
+    <!-- Foobar -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Welcome Activity Text -->
+    <string name="welcomeText">Epidem</string>
+    <string name="welcomeDescriptionIconText">Epidem</string>
+	
+	<!-- Descriptions -->
+	<string name="descriptionSpinner">Doença: </string>
+	<string name="descriptionHint">Digite a descrição</string>
+	<string name="description">Descrição: </string>
+	
+	<!-- Buttons Text -->
+	<string name="btnSendText">Cadastrar</string>
+	<string name="btnMapText">Mapa</string>
+</resources>
